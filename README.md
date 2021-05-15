@@ -13,6 +13,8 @@ This repo contains the lecture notes I have taken for the software engineering c
 - **_Lecturer:_** [_Alper Ugur_](https://www.pau.edu.tr/augur/)
 - **_Main Resource:_** [_Engineering Software Products by Ian Sommerville_](https://iansommerville.com/engineering-software-products/)
 
+---
+
 # Chapter 1: Software Products
 
 Yazılım ürünleri, belirli bir kesimde müşteriye hitap eder. Büyük çaplı kurumsal yazılımlardan, mobil uygulamalar ya da oyunlar gibi kişisel kullanım amaçlı olanlara kadar, çeşitli yazılım ürünleri olabilir.
